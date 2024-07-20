@@ -1,0 +1,40 @@
+A network architecture must meet 4 essential requirements that are - 
+1. fault tolerance
+2. scalability
+3. quality of service
+4. security
+
+fault tolerance - 
+this is one method whenre the number of devices affected by failure are min. and allows speedy recovery.thet rely on multiple paths to send the data.
+generally packet switched network is preferred where the data is split into number of packets and are sent through the network here. these packets can take nay path to the destination.
+
+scalalbilty - 
+these networks are scalable and can accomdate new devices without reducing the performance of the existing devices.
+certain standards and protocols must be followed inorder to make a system scalble.
+
+QOS - quality of service is an increasing demand for the users 
+we must make sure that no congestion must occur during transmission and the data be transefred in high quality.
+congestion generally occurs when the required BW is more than the available BW 
+based on the priority of the tasks the congestion will differ
+for a same router being used for accesing the web pages and calling the call will be given higher priority compared to the web pages.
+
+Network security - 
+this is also a major concernt as the data is confidential to personal and business requirements
+the deiveces must be protected physically from unauthorized access and also providing info security by password etc...
+confidentiality , integrity, and availablity are the 3 major requirements of the NS.
+
+-----------------
+
+Access layer - 
+this layer provides a interface for the connection for the end uers
+all the end devices can then make the connection with the network device or the through wireless devices.
+if the message is for the local host then th emessagee remains there but is the messsage os for another network then based on the network address it is sent to distribution layer and sent to its respective network.
+
+Distributio layer - 
+this layer controls the amount of info transfer to different networks
+it controls the traffic of indo that flows from the access layer to the core layer
+
+Core layer - 
+the main role of the core layer is to transport the data at a very high speed b/w different networks.
+it generally contains high speed routers and switches.
+
