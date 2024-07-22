@@ -1,1 +1,5 @@
-Hello world
+the hexadecimal addressing is used for the IPv6 and the MAC address 
+
+
+IT WAS ALL ABOUT DECIMAL AND HEXADECIMAL AND THEIR CONVERSION NOT MUCH OF A NOTES
+
