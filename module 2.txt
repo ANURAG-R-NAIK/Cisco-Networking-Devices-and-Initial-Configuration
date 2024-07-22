@@ -18,5 +18,31 @@ these applications and services are open to general population and are free or l
 Internet is used for providing these services
 
 2. private clouds - 
+these are for specific organization or govt., these can be setup using a private network but these are costly to build and maintain
 
-hello
+3. Hybrid clouds - 
+these are made of 2 or mode clouds and they remain seperate but are connected with the same architecture. the access to the servies depends on the right to access
+
+4. community clouds - 
+these are designed for the use of a specific community and are customized according to their requirements.
+
+Virtualization is what led to cloud computing 
+the setup of virtual Os and servers had what led to cloud computing 
+a single Service Provider OS was able to control several of the Host Os
+
+
+there was a major drawback that when the server failed all the services provided by the servers were also not available these were called single point failures
+
+also these servers remained idle and wasted the energy untill someone would try to access the services 
+
+
+HYPERVISORS - 
+this acts as a abstraction layer over the physical hardware 
+and this absstraction layer allows the virtual  software to provide access to all the CPU ram and all the features of the physical device
+
+Type  1 Bare metal - 
+these were directly installed over the Hardware these were used at enterprise networks and data center networking devices 
+they are more effective as they have direct access to the hardware
+
+
+
