@@ -1,0 +1,20 @@
+Saas - Software as a service 
+software is not typically owned but leased to the user through the internet
+
+Paas - Platform as a software
+here the software or tool is provided to the user so that they can quickly develop an app
+
+IaaS - Infrastructure as a Service
+virtual computing and services that can be provided over the internet
+
+
+Hypervisor there are 2 types of Hypervisor
+type 1 - Baremetal
+type 2 - Hosted
+
+Tyoes of clouds - 
+1. public clouds - 
+these applications and services are open to general population and are free or leased for duration.
+Internet is used for providing these services
+
+2. private clouds - 
